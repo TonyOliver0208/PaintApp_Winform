@@ -1,0 +1,12 @@
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.csproj.AssemblyReference.cache
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.csproj.SuggestedBindingRedirects.cache
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.View.resources
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.Paint.resources
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.csproj.GenerateResource.cache
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\bin\Debug\MyPaintAppWinForm.exe.config
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\bin\Debug\MyPaintAppWinForm.exe
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\bin\Debug\MyPaintAppWinForm.pdb
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.Properties.Resources.resources
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.csproj.CoreCompileInputs.cache
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.exe
+D:\Train\C#\MyPaintAppWinForm\MyPaintAppWinForm\obj\Debug\MyPaintAppWinForm.pdb
